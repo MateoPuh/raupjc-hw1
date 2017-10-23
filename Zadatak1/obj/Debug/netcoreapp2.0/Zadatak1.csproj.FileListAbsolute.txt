@@ -1,0 +1,11 @@
+C:\RAUPJC\ZADACA1\ZADACA1\bin\Debug\netcoreapp2.0\Zadatak1.deps.json
+C:\RAUPJC\ZADACA1\ZADACA1\bin\Debug\netcoreapp2.0\Zadatak1.runtimeconfig.json
+C:\RAUPJC\ZADACA1\ZADACA1\bin\Debug\netcoreapp2.0\Zadatak1.runtimeconfig.dev.json
+C:\RAUPJC\ZADACA1\ZADACA1\bin\Debug\netcoreapp2.0\Zadatak1.dll
+C:\RAUPJC\ZADACA1\ZADACA1\bin\Debug\netcoreapp2.0\Zadatak1.pdb
+C:\RAUPJC\ZADACA1\ZADACA1\obj\Debug\netcoreapp2.0\Zadatak1.csprojResolveAssemblyReference.cache
+C:\RAUPJC\ZADACA1\ZADACA1\obj\Debug\netcoreapp2.0\Zadatak1.csproj.CoreCompileInputs.cache
+C:\RAUPJC\ZADACA1\ZADACA1\obj\Debug\netcoreapp2.0\Zadatak1.AssemblyInfoInputs.cache
+C:\RAUPJC\ZADACA1\ZADACA1\obj\Debug\netcoreapp2.0\Zadatak1.AssemblyInfo.cs
+C:\RAUPJC\ZADACA1\ZADACA1\obj\Debug\netcoreapp2.0\Zadatak1.dll
+C:\RAUPJC\ZADACA1\ZADACA1\obj\Debug\netcoreapp2.0\Zadatak1.pdb
